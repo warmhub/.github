@@ -1,3 +1,3 @@
 # About WarmHub
 
-- Please visit [WarmHub.com](https://warmhub.com) for more information about our services and offerings.
+- Please visit [warmhub.ai](https://warmhub.ai) for more information about our services and offerings.
